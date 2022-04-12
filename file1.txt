@@ -1,1 +1,1 @@
-"this is a first file wit 1 commit"
+"this is a first file wit 1 commit MASTER MERGE"
