@@ -1,1 +1,1 @@
-"here is  new 2nd merge file" 
+"file is a test2 file" 
